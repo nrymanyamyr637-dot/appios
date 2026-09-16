@@ -1,0 +1,6 @@
+{
+  "name": "مهندس امیررضا | سیستم عامل فناوری شخصی",
+  "description": "سیستم عامل فناوری شخصی، پورتفولیو تکنولوژی و آزمایشگاه مهندسی مهندس امیررضا (مکاترونیک، رباتیک، امبدد و شبیه‌سازی)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
